@@ -1,6 +1,6 @@
 # React + Vite
 
-This project aims at
+This project aims at teaching
 
 Currently, two official plugins are available:
 
