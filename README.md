@@ -1,6 +1,6 @@
 # React + Vite
 
-This project aims at teaching
+This project aims at teaching useState
 
 Currently, two official plugins are available:
 
