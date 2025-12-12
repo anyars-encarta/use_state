@@ -1,6 +1,6 @@
 # React + Vite
 
-This project
+This project aims at
 
 Currently, two official plugins are available:
 
