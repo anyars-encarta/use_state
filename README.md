@@ -1,6 +1,6 @@
 # React + Vite
 
-This project aims at teaching useState to beginners. It is 
+This project aims at teaching useState to beginners. It is beginner friendly
 
 Currently, two official plugins are available:
 
