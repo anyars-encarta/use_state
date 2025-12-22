@@ -2,6 +2,8 @@
 
 This project aims at teaching useState to beginners. It is beginner friendly and requires basic knowledge of JavaScript. Tutorials for TypeScript would be added soon.
 
+It is beginner friendly and requires basic knowledge of JavaScript. Tutorials for TypeScript would be added soon.
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
