@@ -2,7 +2,7 @@
 
 This project aims at teaching useState to beginners. It is beginner friendly and requires basic knowledge of JavaScript. Tutorials for TypeScript would be added soon.
 
-It is beginner friendly and requires basic knowledge of JavaScript. Tutorials for TypeScript
+It is beginner friendly and requires basic knowledge of JavaScript. Tutorials for
 
 Currently, two official plugins are available:
 
