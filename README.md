@@ -1,6 +1,6 @@
 # React + Vite
 
-This project aims at teaching useState to beginners. It is beginner friendly and requires basic knowledge of JavaScript. Tutorials for TypeScript would
+This project aims at teaching useState to beginners. It is beginner friendly and requires basic knowledge of JavaScript. Tutorials for TypeScript
 
 ## Expanding the ESLint configuration
 
